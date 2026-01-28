@@ -26,10 +26,9 @@ app.use(cookieParser());
 // ✅ CORS
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://gadiwalekaka-com.onrender.com",
-  "https://schoolvan-3vv5.vercel.app",
-  "https://schoolvan-3vv5-dhananjayromans-projects.vercel.app",
-  "https://schoolvan-3vv5-git-main-dhananjayromans-projects.vercel.app",
+  "https://schoolvan-frontend.vercel.app",
+  "https://schoolvan-frontend-git-main-dhananjayromans-projects.vercel.app",
+  "https://schoolvan-frontend-j0n6wc2ff-dhananjayromans-projects.vercel.app"
 ];
 
 app.use(
